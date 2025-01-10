@@ -8,3 +8,7 @@
     > code reusability
     > debugging
     > easy to colab
+5. End to end Project (Chatbook class)
+    > Encapsulation 
+    > Getter and setter
+    > Staic method
