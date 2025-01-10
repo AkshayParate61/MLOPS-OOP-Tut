@@ -9,6 +9,9 @@
     > debugging
     > easy to colab
 5. End to end Project (Chatbook class)
+    > function vs method
+    > magic method or dunder method
+    > self
     > Encapsulation 
     > Getter and setter
     > Staic method
