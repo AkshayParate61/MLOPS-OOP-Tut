@@ -91,6 +91,7 @@ class chatbook:
         self.menu()
 
 user1 = chatbook()
+print("Welcome")
         
 
         
